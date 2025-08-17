@@ -1,0 +1,5 @@
+# Abaikan kredensial dan file lokal
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.env
